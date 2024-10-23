@@ -22,4 +22,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0904-leaf-similar-trees](https://github.com/boburjon1504/leetcode/tree/master/0904-leaf-similar-trees) |
+## Array
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
+## Sorting
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
