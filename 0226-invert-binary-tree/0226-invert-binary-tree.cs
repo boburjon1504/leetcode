@@ -22,15 +22,7 @@ public class Solution {
         if(root is null){
             return;
         }
-        if(root.left is not null && root.right is not null){
             (root.left, root.right) = (root.right, root.left);
-        }else if(root.left is null){
-            root.left = root.right;
-            root.right = null;
-        }else{
-            root.right = root.left;
-            root.left = null;
-        }
         Invert(root.left);
         Invert(root.right);
     }
