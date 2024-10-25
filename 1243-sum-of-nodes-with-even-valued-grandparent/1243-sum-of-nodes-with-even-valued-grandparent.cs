@@ -25,24 +25,25 @@ public class Solution {
             return;
         }
         if(root.val % 2 == 0 && root.left is not null){
-            if(root.left.left is not null){
-                sm += root.left.left.val;
-            }
-            if(root.left.right is not null){
-                sm += root.left.right.val;
-            }
+            sm += GetSumOfChildren(root.left);
         }
 
         if(root.val % 2 == 0  && root.right is not null){
-            if(root.right.left is not null){
-                sm += root.right.left.val;
-            }
-            if(root.right.right is not null){
-                sm += root.right.right.val;
-            }
+            sm += GetSumOfChildren(root.right);
         }
 
         Sum(root.left,ref sm);
         Sum(root.right,ref sm);
+    }
+
+    private int GetSumOfChildren(TreeNode root){
+        var sm = 0;
+        if(root.left is not null){
+            sm += root.left.val;
+        }
+        if(root.right is not null){
+            sm += root.right.val;
+        }
+        return sm;
     }
 }
