@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/boburjon1504/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
