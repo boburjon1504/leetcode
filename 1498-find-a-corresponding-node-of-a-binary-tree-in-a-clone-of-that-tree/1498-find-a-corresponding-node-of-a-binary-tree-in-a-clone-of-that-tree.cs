@@ -21,12 +21,9 @@ public class Solution {
             return;
         }
 
-        if(original == target){
-            res = cloned;
-        }
+        res = original == target? cloned : res;
 
         GetTarget(original.left,cloned.left, target, ref res);
-        
         GetTarget(original.right,cloned.right, target, ref res);
     }
 }
