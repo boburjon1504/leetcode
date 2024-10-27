@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
