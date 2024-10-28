@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/boburjon1504/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/boburjon1504/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/boburjon1504/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Array
