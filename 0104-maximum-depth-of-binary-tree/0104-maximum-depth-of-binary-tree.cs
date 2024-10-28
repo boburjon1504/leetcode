@@ -13,6 +13,9 @@
  */
 public class Solution {
     public int MaxDepth(TreeNode root) {
+        if(root is null){
+            return 0;
+        }
         var depth = 0;
         var queue = new Queue<TreeNode>();
 
