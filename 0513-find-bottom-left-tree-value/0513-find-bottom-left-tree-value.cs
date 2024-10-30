@@ -18,14 +18,12 @@ public class Solution {
 
     private int FindLeftMostValue(TreeNode root){
         var queue = new Queue<TreeNode>();
+        var left = root;
 
         queue.Enqueue(root);
-        var left = root;
-        var last = root;
         while(queue.Count > 0){
             var size = queue.Count;
             var leftMost = new Queue<TreeNode>();
-            var cnt = 0;
             for(var i = 0; i < size; i++){
                 var node = queue.Dequeue();
                 if(node.left is not null){
@@ -37,7 +35,6 @@ public class Solution {
                 {
                     queue.Enqueue(node.right);
                     leftMost.Enqueue(node.right);
-                    cnt++;
                 }
             }
             left = leftMost.Count > 0 ? leftMost.Dequeue() : left;
