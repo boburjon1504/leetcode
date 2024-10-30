@@ -46,6 +46,6 @@ public class Solution {
             return true;
         }
 
-        return root.val == 1 || HasOne(root.left) || HasOne(root.right);
+        return false || HasOne(root.left) || HasOne(root.right);
     }
 }
