@@ -24,25 +24,23 @@ public class Solution {
         if(root is null){
             return;
         }
-        Count(root, target,0, false,ref cnt);
+        Count(root, target,0, ref cnt);
 
         InOrder(root.left, target,ref cnt);
         InOrder(root.right, target,ref cnt);
     }
 
-    private void Count(TreeNode root, long target, long sm, bool added,ref int cnt){
+    private void Count(TreeNode root, long target, long sm,ref int cnt){
         if(root is null) return;
 
         sm += root.val;
-        added = true;
-        if(added && sm == target){
+        if(sm == target){
             cnt++;
         }
-        Count(root.left, target, sm, added,ref cnt);
-        added = false;
+        Count(root.left, target, sm, ref cnt);
         if(root.right is null){
             sm -= root.val;
         }
-        Count(root.right, target, sm, added,ref cnt);
+        Count(root.right, target, sm, ref cnt);
     }
 }
