@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/boburjon1504/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/boburjon1504/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/boburjon1504/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/boburjon1504/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/boburjon1504/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/boburjon1504/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/boburjon1504/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/boburjon1504/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
