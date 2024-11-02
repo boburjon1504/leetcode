@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/boburjon1504/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/boburjon1504/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0832-binary-tree-pruning](https://github.com/boburjon1504/leetcode/tree/master/0832-binary-tree-pruning) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/boburjon1504/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0832-binary-tree-pruning](https://github.com/boburjon1504/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/boburjon1504/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/boburjon1504/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/boburjon1504/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -211,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/boburjon1504/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
