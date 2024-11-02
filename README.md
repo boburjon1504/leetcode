@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/boburjon1504/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/boburjon1504/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/boburjon1504/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/boburjon1504/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/boburjon1504/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/boburjon1504/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/boburjon1504/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/boburjon1504/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/boburjon1504/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/boburjon1504/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/boburjon1504/leetcode/tree/master/2580-circular-sentence) |
 ## Two Pointers
@@ -213,4 +217,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
