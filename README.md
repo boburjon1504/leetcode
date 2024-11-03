@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
+| [0812-rotate-string](https://github.com/boburjon1504/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/boburjon1504/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/boburjon1504/leetcode/tree/master/2580-circular-sentence) |
 ## Two Pointers
@@ -248,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/boburjon1504/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
