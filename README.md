@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/boburjon1504/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/boburjon1504/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/boburjon1504/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/boburjon1504/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
