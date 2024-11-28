@@ -20,7 +20,7 @@ public class BrowserHistory {
             steps--;
         }
         
-        return visits.Count >= 1 ? visits.Peek() : forward.Peek();
+        return visits.Peek();
     }
     
     public string Forward(int steps) {
