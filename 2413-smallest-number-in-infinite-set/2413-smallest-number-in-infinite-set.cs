@@ -6,11 +6,10 @@ public class SmallestInfiniteSet {
     }
     
     public int PopSmallest() {
-        if(set.Contains(min)){
-            while(set.Contains(min)){
-                min++;
-            }
+        while(set.Contains(min)){
+            min++;
         }
+        
         set.Add(min);
         return min;
     }
