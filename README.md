@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0933-increasing-order-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
+| [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/boburjon1504/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2388-replace-elements-in-an-array](https://github.com/boburjon1504/leetcode/tree/master/2388-replace-elements-in-an-array) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1337-design-skiplist](https://github.com/boburjon1504/leetcode/tree/master/1337-design-skiplist) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
@@ -345,5 +348,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/boburjon1504/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
