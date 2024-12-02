@@ -9,13 +9,11 @@ public class MyCircularDeque {
     private Node tail;
     private int size;
     private int currentSize=0;
-    private int c = 0;
     public MyCircularDeque(int k) {
         size = k;
     }
     
     public bool InsertFront(int value) {
-        c++;
         if(IsFull()){
             return false;
         }
@@ -35,7 +33,6 @@ public class MyCircularDeque {
     }
     
     public bool InsertLast(int value) {
-        c++;
         if(IsFull()){
             return false;
         }
@@ -56,7 +53,6 @@ public class MyCircularDeque {
     }
     
     public bool DeleteFront() {
-        c++;
         if(IsEmpty()){
             return false;
         }
@@ -72,7 +68,6 @@ public class MyCircularDeque {
     }
     
     public bool DeleteLast() {
-        c++;
         if(IsEmpty()){
             return false;
         }
@@ -91,7 +86,6 @@ public class MyCircularDeque {
     }
     
     public int GetFront() {
-        c++;
         if(IsEmpty()){
             return -1;
         }
@@ -100,8 +94,6 @@ public class MyCircularDeque {
     }
     
     public int GetRear() {
-        c++;
-        Console.WriteLine($"{c}  {currentSize}  {size}");
         if(IsEmpty()){
             return -1;
         }
