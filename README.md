@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/boburjon1504/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/boburjon1504/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/boburjon1504/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 ## Sorting
