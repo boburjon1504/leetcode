@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/boburjon1504/leetcode/tree/master/0937-online-stock-span) |
 | [1337-design-skiplist](https://github.com/boburjon1504/leetcode/tree/master/1337-design-skiplist) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
+| [1955-seat-reservation-manager](https://github.com/boburjon1504/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/boburjon1504/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/boburjon1504/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1955-seat-reservation-manager](https://github.com/boburjon1504/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/boburjon1504/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
