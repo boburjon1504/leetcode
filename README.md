@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/boburjon1504/leetcode/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1048-clumsy-factorial](https://github.com/boburjon1504/leetcode/tree/master/1048-clumsy-factorial) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0224-basic-calculator](https://github.com/boburjon1504/leetcode/tree/master/0224-basic-calculator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1048-clumsy-factorial](https://github.com/boburjon1504/leetcode/tree/master/1048-clumsy-factorial) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1048-clumsy-factorial](https://github.com/boburjon1504/leetcode/tree/master/1048-clumsy-factorial) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/boburjon1504/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
