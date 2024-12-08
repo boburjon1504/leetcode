@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/boburjon1504/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0832-binary-tree-pruning](https://github.com/boburjon1504/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/boburjon1504/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/boburjon1504/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/boburjon1504/leetcode/tree/master/0859-design-circular-deque) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
 ## Data Stream
