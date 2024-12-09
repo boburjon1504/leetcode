@@ -22,7 +22,6 @@ public class Solution {
                 cur = cur.next;
                 t++;
             }
-            Console.WriteLine($"{t}  {c} {temp.val}");
             if((t % 2 == 0 && cur is not null) || (cur is null && t % 2 == 1)){
                 cur = temp;
                 ListNode pr = null;
@@ -39,8 +38,6 @@ public class Solution {
                 tail.next = cur;
                 temp = cur;
             }else{
-                //Console.WriteLine($"{prev.val}  {(cur is not null ? cur.val : 0)} {t}");
-
                 while(temp is not null && t > 0){
                     prev = temp;
                     temp = temp.next;
