@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/boburjon1504/leetcode/tree/master/1731-even-odd-tree) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/boburjon1504/leetcode/tree/master/1731-even-odd-tree) |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/boburjon1504/leetcode/tree/master/0859-design-circular-deque) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1337-design-skiplist](https://github.com/boburjon1504/leetcode/tree/master/1337-design-skiplist) |
+| [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/boburjon1504/leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
