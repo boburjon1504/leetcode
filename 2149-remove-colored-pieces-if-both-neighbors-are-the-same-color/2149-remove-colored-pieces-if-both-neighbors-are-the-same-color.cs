@@ -5,23 +5,23 @@ public class Solution {
         foreach(var i in colors){
             if(i == 'A'){
                 cA++;
-                if(cB - 2 > 0){
+                if(cB  > 2){
                     totalB += cB - 2;
                 }
                 cB = 0;
             }else{
                 cB++;
-                if(cA - 2 > 0){
+                if(cA > 2){
                     totalA += cA - 2;
                 }
                 cA = 0;
             }
         }
-        if(cA - 2 > 0){
+        if(cA > 2){
             totalA += cA - 2;
         }
 
-        if(cB - 2 > 0){
+        if(cB > 2){
             totalB += cB - 2;
         }
         return totalA > totalB;
