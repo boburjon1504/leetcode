@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1276-closest-divisors](https://github.com/boburjon1504/leetcode/tree/master/1276-closest-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/boburjon1504/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## String
 |  |
 | ------- |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/boburjon1504/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/boburjon1504/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/boburjon1504/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
 | [2580-circular-sentence](https://github.com/boburjon1504/leetcode/tree/master/2580-circular-sentence) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/boburjon1504/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/boburjon1504/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
@@ -492,4 +495,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/boburjon1504/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
