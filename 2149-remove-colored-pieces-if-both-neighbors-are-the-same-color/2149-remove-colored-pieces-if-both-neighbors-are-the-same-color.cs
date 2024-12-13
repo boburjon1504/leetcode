@@ -24,7 +24,6 @@ public class Solution {
         if(cB - 2 > 0){
             totalB += cB - 2;
         }
-        Console.WriteLine($"{totalA}  {totalB}");
         return totalA > totalB;
 
     }
