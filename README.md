@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/boburjon1504/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/boburjon1504/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Trie
 |  |
