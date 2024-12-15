@@ -13,7 +13,7 @@ public class Solution {
                     };
                 }else{
                     foreach(var loc in dc[board[i][j]]){
-                        if(loc[0] == i || loc[1] == j || (loc[0] / 3 == i /3 && loc[1] / 3 == j / 3 && Math.Abs(loc[0] - i) < 3 && Math.Abs(loc[1] - j) < 3)){
+                        if(loc[0] == i || loc[1] == j || (loc[0] / 3 == i /3 && loc[1] / 3 == j / 3)){
                             return false;
                         }
                     }
