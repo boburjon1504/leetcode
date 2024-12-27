@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/boburjon1504/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/boburjon1504/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/boburjon1504/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-circular-sentence](https://github.com/boburjon1504/leetcode/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/boburjon1504/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/boburjon1504/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/boburjon1504/leetcode/tree/master/3451-string-compression-iii) |
 ## Two Pointers
 |  |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
 |  |
 | ------- |
