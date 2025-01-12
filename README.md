@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/boburjon1504/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/boburjon1504/leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/boburjon1504/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0812-rotate-string](https://github.com/boburjon1504/leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/boburjon1504/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/boburjon1504/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/boburjon1504/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
+| [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0838-design-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/boburjon1504/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/boburjon1504/leetcode/tree/master/0860-design-circular-queue) |
@@ -516,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
