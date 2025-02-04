@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/boburjon1504/leetcode/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/boburjon1504/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/boburjon1504/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/boburjon1504/leetcode/tree/master/0384-shuffle-an-array) |
 | [0419-battleships-in-a-board](https://github.com/boburjon1504/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/boburjon1504/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Simulation
 |  |
