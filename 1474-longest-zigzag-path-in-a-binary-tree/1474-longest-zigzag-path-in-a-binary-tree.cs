@@ -27,11 +27,9 @@ public class Solution {
 
         if(isRight && root.left is null && c > mx){
             mx = c;
-            // c = 0;
         }
         if(!isRight && root.right is null && c > mx){
             mx = c;
-            // c = 0;
         }
 
         MaxZigZag(root.left, false, (isRight ? c + 1 : 1), ref mx);
