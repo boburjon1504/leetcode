@@ -58,15 +58,6 @@ public class Solution {
 
             r++;
         }
-        var ans = new List<IList<string>>();
-
-        foreach(var a in arr){
-            var ls = new List<string>();
-            foreach(var b in a){
-                ls.Add(b);
-            }
-            ans.Add(ls);
-        }
-        return ans;
+        return (IList<IList<string>>)arr;
     }
 }
