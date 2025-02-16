@@ -23,7 +23,6 @@ public class Solution {
                 stack.Push(node);
             }
         }
-        Console.WriteLine(string.Join(" ", stack));
         return stack.Count == 1 && stack.Peek() == "#";
     }
 }
