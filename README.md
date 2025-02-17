@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/boburjon1504/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/boburjon1504/leetcode/tree/master/1731-even-odd-tree) |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -385,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1722-throne-inheritance](https://github.com/boburjon1504/leetcode/tree/master/1722-throne-inheritance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/boburjon1504/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -509,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/boburjon1504/leetcode/tree/master/0937-online-stock-span) |
 | [1337-design-skiplist](https://github.com/boburjon1504/leetcode/tree/master/1337-design-skiplist) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/boburjon1504/leetcode/tree/master/1722-throne-inheritance) |
