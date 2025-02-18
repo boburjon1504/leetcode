@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/boburjon1504/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Array
 |  |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/boburjon1504/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2388-replace-elements-in-an-array](https://github.com/boburjon1504/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/boburjon1504/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/boburjon1504/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -352,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/boburjon1504/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
