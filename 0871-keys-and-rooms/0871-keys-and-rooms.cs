@@ -5,7 +5,6 @@ public class Solution {
         _rooms = rooms;
         var set = new HashSet<int>();
         GetKeys(0, set);
-        Console.WriteLine(string.Join(" ", set));
         return rooms.Count == set.Count;
     }
     private void GetKeys(int room, HashSet<int> keys){
