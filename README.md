@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/boburjon1504/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/boburjon1504/leetcode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/boburjon1504/leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/boburjon1504/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/boburjon1504/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/boburjon1504/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/boburjon1504/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/boburjon1504/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/boburjon1504/leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -615,4 +617,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/boburjon1504/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/boburjon1504/leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
