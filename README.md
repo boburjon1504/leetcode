@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1048-clumsy-factorial](https://github.com/boburjon1504/leetcode/tree/master/1048-clumsy-factorial) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/boburjon1504/leetcode/tree/master/2388-replace-elements-in-an-array) |
