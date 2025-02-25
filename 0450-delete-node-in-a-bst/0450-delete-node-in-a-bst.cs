@@ -65,7 +65,6 @@ public class Solution {
                 }
             }else{
                 var child = GetChild(root.right);
-                Console.WriteLine("Ishladi");
                 (child.left, child.right) = (root.left, root.right == child ? root.right.right : root.right);
                 if(parent.left == root){
                     parent.left = child;
