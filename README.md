@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
+| [0735-asteroid-collision](https://github.com/boburjon1504/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/boburjon1504/leetcode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/boburjon1504/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/boburjon1504/leetcode/tree/master/0860-design-circular-queue) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/boburjon1504/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/boburjon1504/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/boburjon1504/leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
+| [0735-asteroid-collision](https://github.com/boburjon1504/leetcode/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1048-clumsy-factorial](https://github.com/boburjon1504/leetcode/tree/master/1048-clumsy-factorial) |
