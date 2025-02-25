@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/boburjon1504/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/boburjon1504/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/boburjon1504/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
