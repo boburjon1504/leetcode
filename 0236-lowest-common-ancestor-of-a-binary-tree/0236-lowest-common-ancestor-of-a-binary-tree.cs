@@ -28,7 +28,7 @@ public class Solution {
             res = root;
             return left + right;
         }
-        Console.WriteLine($"{root.val}  {left}  {right}");
+        
         if((root.val == p.val || root.val == q.val) && (left == 1 || right == 1)){
             res = root;
 
