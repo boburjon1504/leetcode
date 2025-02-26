@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
+| [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
+| [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/boburjon1504/leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/boburjon1504/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/boburjon1504/leetcode/tree/master/0384-shuffle-an-array) |
@@ -620,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
