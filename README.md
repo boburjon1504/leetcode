@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/boburjon1504/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/boburjon1504/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/boburjon1504/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -475,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/boburjon1504/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/boburjon1504/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/boburjon1504/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/boburjon1504/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1894-merge-strings-alternately](https://github.com/boburjon1504/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -625,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
