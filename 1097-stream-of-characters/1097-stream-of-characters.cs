@@ -3,10 +3,6 @@ using System.Text;
 public class TrieNode{
     public Dictionary<char, TrieNode> Children { get; } = new();
     public bool IsEndOfTheWord { get; set; }
-    public char val;
-    public TrieNode(char val){
-        this.val = val;
-    }
 }
 
 public class StreamChecker {
@@ -14,19 +10,18 @@ public class StreamChecker {
     private IList<char> stream = new List<char>();
     private TrieNode root;
     public StreamChecker(string[] words) {
-        root = new TrieNode('?');
+        root = new TrieNode();
         foreach(var word in words){
-            var sp = word.Reverse();
-            Insert(root, sp);
+            Insert(root, word);
         }
     }
 
-    private void Insert(TrieNode root, IEnumerable<char> word){
-        foreach(var ch in word){
-            if(!root.Children.ContainsKey(ch)){
-                root.Children[ch] = new TrieNode(ch);
+    private void Insert(TrieNode root, string word){
+        for(var i = word.Length - 1; i >= 0; i--){
+            if(!root.Children.ContainsKey(word[i])){
+                root.Children[word[i]] = new TrieNode();
             }
-            root = root.Children[ch];
+            root = root.Children[word[i]];
         }
 
         root.IsEndOfTheWord = true;
