@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/boburjon1504/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/boburjon1504/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/boburjon1504/leetcode/tree/master/2580-circular-sentence) |
+| [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/boburjon1504/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/boburjon1504/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/boburjon1504/leetcode/tree/master/0120-triangle) |
 | [0650-2-keys-keyboard](https://github.com/boburjon1504/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -645,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
 |  |
