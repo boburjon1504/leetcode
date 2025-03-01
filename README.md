@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/boburjon1504/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
+| [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/boburjon1504/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/boburjon1504/leetcode/tree/master/0120-triangle) |
 | [0650-2-keys-keyboard](https://github.com/boburjon1504/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/boburjon1504/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1972-rotating-the-box](https://github.com/boburjon1504/leetcode/tree/master/1972-rotating-the-box) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/boburjon1504/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/boburjon1504/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
