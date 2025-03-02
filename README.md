@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/boburjon1504/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/boburjon1504/leetcode/tree/master/0118-pascals-triangle) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/boburjon1504/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/boburjon1504/leetcode/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/boburjon1504/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/boburjon1504/leetcode/tree/master/0937-online-stock-span) |
@@ -511,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0633-sum-of-square-numbers](https://github.com/boburjon1504/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
@@ -633,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/boburjon1504/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/boburjon1504/leetcode/tree/master/0120-triangle) |
