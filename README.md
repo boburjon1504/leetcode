@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/boburjon1504/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/boburjon1504/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/boburjon1504/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/boburjon1504/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/boburjon1504/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/boburjon1504/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/boburjon1504/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/boburjon1504/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/boburjon1504/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Backtracking
 |  |
