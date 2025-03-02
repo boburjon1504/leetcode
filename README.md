@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/boburjon1504/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/boburjon1504/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/boburjon1504/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/boburjon1504/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/boburjon1504/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/boburjon1504/leetcode/tree/master/0055-jump-game) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
 | [1285-balance-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/boburjon1504/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/boburjon1504/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/boburjon1504/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
