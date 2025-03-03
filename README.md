@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/boburjon1504/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/boburjon1504/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/boburjon1504/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/boburjon1504/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2388-replace-elements-in-an-array](https://github.com/boburjon1504/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/boburjon1504/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/boburjon1504/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/boburjon1504/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/boburjon1504/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Backtracking
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1048-clumsy-factorial](https://github.com/boburjon1504/leetcode/tree/master/1048-clumsy-factorial) |
 | [2232-adding-spaces-to-a-string](https://github.com/boburjon1504/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/boburjon1504/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2388-replace-elements-in-an-array](https://github.com/boburjon1504/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2389-design-a-text-editor](https://github.com/boburjon1504/leetcode/tree/master/2389-design-a-text-editor) |
 ## Design
