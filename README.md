@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/boburjon1504/leetcode/tree/master/0224-basic-calculator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/boburjon1504/leetcode/tree/master/0384-shuffle-an-array) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/boburjon1504/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/boburjon1504/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/boburjon1504/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/boburjon1504/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/boburjon1504/leetcode/tree/master/0139-word-break) |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/boburjon1504/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
