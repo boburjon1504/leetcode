@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/boburjon1504/leetcode/tree/master/0224-basic-calculator) |
+| [0343-integer-break](https://github.com/boburjon1504/leetcode/tree/master/0343-integer-break) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/boburjon1504/leetcode/tree/master/0384-shuffle-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/boburjon1504/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/boburjon1504/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/boburjon1504/leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/boburjon1504/leetcode/tree/master/0343-integer-break) |
 | [0650-2-keys-keyboard](https://github.com/boburjon1504/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
