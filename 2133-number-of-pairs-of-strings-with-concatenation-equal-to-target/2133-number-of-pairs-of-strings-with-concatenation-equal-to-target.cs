@@ -26,8 +26,6 @@ public class Solution {
             var ls = dict[sub];
             
             count += (sub == n ? ls.Count - 1 : ls.Count);
-
-            Console.WriteLine($"{n}   {count}");
         }
 
         return count;
