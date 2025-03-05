@@ -1,13 +1,13 @@
 public class Solution {
     public int NumOfPairs(string[] nums, string target) {
-        var dict = new Dictionary<string, IList<int>>();
+        var dict = new Dictionary<string, int>();
 
         for(var i = 0; i < nums.Length; i++){
             if(!dict.ContainsKey(nums[i])){
-                dict[nums[i]] = new List<int>();
+                dict[nums[i]] = 0;
             }
 
-            dict[nums[i]].Add(i);
+            dict[nums[i]]++;
         }
 
         var count = 0;
@@ -25,7 +25,7 @@ public class Solution {
 
             var ls = dict[sub];
             
-            count += (sub == n ? ls.Count - 1 : ls.Count);
+            count += (sub == n ? ls - 1 : ls);
         }
 
         return count;
