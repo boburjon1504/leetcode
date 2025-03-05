@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/boburjon1504/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/boburjon1504/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/boburjon1504/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/boburjon1504/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/boburjon1504/leetcode/tree/master/0056-merge-intervals) |
 | [0436-find-right-interval](https://github.com/boburjon1504/leetcode/tree/master/0436-find-right-interval) |
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
