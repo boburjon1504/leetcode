@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/boburjon1504/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/boburjon1504/leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1972-rotating-the-box](https://github.com/boburjon1504/leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/boburjon1504/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/boburjon1504/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/boburjon1504/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2649-count-total-number-of-colored-cells](https://github.com/boburjon1504/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -583,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/boburjon1504/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/boburjon1504/leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/boburjon1504/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/boburjon1504/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Simulation
