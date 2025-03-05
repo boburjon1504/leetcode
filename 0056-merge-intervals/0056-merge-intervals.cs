@@ -3,7 +3,7 @@ public class Solution {
 
     intervals = intervals.OrderBy(x => x[0]).ThenBy(x => x[1]).ToArray();
 
-    var ans = new List<IList<int>>{ intervals[0] };
+    var ans = new List<int[]>{ intervals[0] };
 
     for(var i = 1; i < intervals.Length; i++){
         var last = ans[^1];
@@ -17,6 +17,6 @@ public class Solution {
         }
     }
 
-     return ans.Select(x => x.ToArray()).ToArray();   
+     return ans.ToArray();   
     }
 }
