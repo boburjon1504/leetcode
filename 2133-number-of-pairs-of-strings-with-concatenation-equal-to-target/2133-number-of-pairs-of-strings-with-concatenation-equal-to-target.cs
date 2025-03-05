@@ -1,0 +1,35 @@
+public class Solution {
+    public int NumOfPairs(string[] nums, string target) {
+        var dict = new Dictionary<string, IList<int>>();
+
+        for(var i = 0; i < nums.Length; i++){
+            if(!dict.ContainsKey(nums[i])){
+                dict[nums[i]] = new List<int>();
+            }
+
+            dict[nums[i]].Add(i);
+        }
+
+        var count = 0;
+
+        foreach(var n in nums){
+            if(n == target) continue;
+
+            var i = target.IndexOf(n);
+
+            if(i != 0) continue;
+
+            var sub = target.Substring(n.Length);
+
+            if(!dict.ContainsKey(sub)) continue;
+
+            var ls = dict[sub];
+            
+            count += (sub == n ? ls.Count - 1 : ls.Count);
+
+            Console.WriteLine($"{n}   {count}");
+        }
+
+        return count;
+    }
+}
