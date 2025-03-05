@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/boburjon1504/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/boburjon1504/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/boburjon1504/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/boburjon1504/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/boburjon1504/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/boburjon1504/leetcode/tree/master/0055-jump-game) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/boburjon1504/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
