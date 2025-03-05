@@ -9,12 +9,11 @@ public class Solution {
         var last = ans[^1];
         var inter = intervals[i];
 
-        if(last[1] >= inter[1]){
+        if(last[1] >= inter[0]){
+            last[1] = inter[1] > last[1] ? inter[1] : last[1];
             continue;
         }else if(last[1] < inter[0]){
             ans.Add(inter);
-        }else if(last[1] >= inter[0]){
-            last[1] = inter[1];
         }
     }
 
