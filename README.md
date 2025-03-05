@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/boburjon1504/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/boburjon1504/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/boburjon1504/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/boburjon1504/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1276-closest-divisors](https://github.com/boburjon1504/leetcode/tree/master/1276-closest-divisors) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/boburjon1504/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1894-merge-strings-alternately](https://github.com/boburjon1504/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/boburjon1504/leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -734,4 +737,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/boburjon1504/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
