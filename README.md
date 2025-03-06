@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/boburjon1504/leetcode/tree/master/0068-text-justification) |
+| [0091-decode-ways](https://github.com/boburjon1504/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/boburjon1504/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/boburjon1504/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/boburjon1504/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/boburjon1504/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/boburjon1504/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/boburjon1504/leetcode/tree/master/0139-word-break) |
