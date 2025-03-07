@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/boburjon1504/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/boburjon1504/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/boburjon1504/leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/boburjon1504/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/boburjon1504/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/boburjon1504/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -710,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/boburjon1504/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/boburjon1504/leetcode/tree/master/0343-integer-break) |
 | [0650-2-keys-keyboard](https://github.com/boburjon1504/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
