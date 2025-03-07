@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/boburjon1504/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/boburjon1504/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/boburjon1504/leetcode/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/boburjon1504/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/boburjon1504/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/boburjon1504/leetcode/tree/master/0322-coin-change) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/boburjon1504/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/boburjon1504/leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
+| [0216-combination-sum-iii](https://github.com/boburjon1504/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
