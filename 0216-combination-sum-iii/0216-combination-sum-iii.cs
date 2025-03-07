@@ -1,6 +1,6 @@
 public class Solution {
     public IList<IList<int>> CombinationSum3(int k, int n) {
-        var combs = Combs(n, k, 1, new());
+        var combs = Combs(n, k, 1);
         if(combs is null) return [];
 
         var set = new HashSet<string>();
@@ -17,16 +17,13 @@ public class Solution {
     }
 
     private IList<IList<int>> Combs(
-        int n, int k,int index, 
-        Dictionary<string, IList<IList<int>>> memo){
-        var key = $"{n},{k},{index}";
-        // if(memo.ContainsKey(key)) return memo[key];
+        int n, int k,int index){
         if(k == 0 && n == 0) return [[]];
         if(n <= 0 || k <= 0) return null;
 
         IList<IList<int>> ans = null;
         for(var i = index; i < 10; i++){
-            var combs = Combs(n - i, k - 1, i + 1, memo);
+            var combs = Combs(n - i, k - 1, i + 1);
             if(combs is null) continue;
 
             foreach(var comb in combs){
@@ -40,8 +37,6 @@ public class Solution {
                 ans.Add(comb);
             }
         }
-
-        memo[key] = ans;
 
         return ans;
     }
