@@ -7,6 +7,8 @@ public class Solution {
             if(!IsPrime(i)) continue;
 
             (pair[0], pair[1]) = (pair[1], i);
+            if(pair[1] - pair[0] <=2 && pair[0] != 0)return pair;
+
             if(num1 == -1){
                 num1 = i;
             }else if(num2 == -1){
