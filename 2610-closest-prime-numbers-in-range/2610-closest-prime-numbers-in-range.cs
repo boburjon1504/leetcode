@@ -7,7 +7,6 @@ public class Solution {
             if(!IsPrime(i)) continue;
 
             (pair[0], pair[1]) = (pair[1], i);
-            Console.WriteLine(i);
             if(num1 == -1){
                 num1 = i;
             }else if(num2 == -1){
