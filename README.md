@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/boburjon1504/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/boburjon1504/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1945-finding-the-users-active-minutes](https://github.com/boburjon1504/leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1972-rotating-the-box](https://github.com/boburjon1504/leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/boburjon1504/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/boburjon1504/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/boburjon1504/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/boburjon1504/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1722-throne-inheritance](https://github.com/boburjon1504/leetcode/tree/master/1722-throne-inheritance) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/boburjon1504/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/boburjon1504/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1945-finding-the-users-active-minutes](https://github.com/boburjon1504/leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/boburjon1504/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/boburjon1504/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/boburjon1504/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/boburjon1504/leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
