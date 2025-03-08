@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/boburjon1504/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/boburjon1504/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1046-max-consecutive-ones-iii](https://github.com/boburjon1504/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1097-stream-of-characters](https://github.com/boburjon1504/leetcode/tree/master/1097-stream-of-characters) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/boburjon1504/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/boburjon1504/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
+| [1046-max-consecutive-ones-iii](https://github.com/boburjon1504/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/boburjon1504/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -601,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/boburjon1504/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/boburjon1504/leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/boburjon1504/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/boburjon1504/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/boburjon1504/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -790,5 +793,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/boburjon1504/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/boburjon1504/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
