@@ -4,7 +4,6 @@ public class Solution {
         var cntZero = 0;
         while(r < nums.Length){
             if(nums[r] == 0){
-                Console.WriteLine($"Work: {r} {l}");
                 if(cntZero >= k){
                     while(nums[l] != 0){
                         l++;
@@ -20,7 +19,6 @@ public class Solution {
             if(mx < val){
                 mx = val;
             }
-            Console.WriteLine($"{r} {l} {mx}  {cntZero}");
             r++;
         }
 
