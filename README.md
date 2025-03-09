@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/boburjon1504/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/boburjon1504/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3483-alternating-groups-ii](https://github.com/boburjon1504/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/boburjon1504/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
@@ -795,4 +796,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/boburjon1504/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/boburjon1504/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/boburjon1504/leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
