@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/boburjon1504/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/boburjon1504/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/boburjon1504/leetcode/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boburjon1504/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/boburjon1504/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/boburjon1504/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/boburjon1504/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -719,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/boburjon1504/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boburjon1504/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2755-extra-characters-in-a-string](https://github.com/boburjon1504/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/boburjon1504/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boburjon1504/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/boburjon1504/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/boburjon1504/leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
