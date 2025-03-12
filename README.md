@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/boburjon1504/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/boburjon1504/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/boburjon1504/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/boburjon1504/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/boburjon1504/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2512-longest-uploaded-prefix](https://github.com/boburjon1504/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/boburjon1504/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/boburjon1504/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/boburjon1504/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/boburjon1504/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/boburjon1504/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/boburjon1504/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Iterator
 |  |
 | ------- |
