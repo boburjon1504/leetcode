@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/boburjon1504/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/boburjon1504/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1097-stream-of-characters](https://github.com/boburjon1504/leetcode/tree/master/1097-stream-of-characters) |
+| [1168-duplicate-zeros](https://github.com/boburjon1504/leetcode/tree/master/1168-duplicate-zeros) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/boburjon1504/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/boburjon1504/leetcode/tree/master/1397-search-suggestions-system) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/boburjon1504/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/boburjon1504/leetcode/tree/master/0917-boats-to-save-people) |
+| [1168-duplicate-zeros](https://github.com/boburjon1504/leetcode/tree/master/1168-duplicate-zeros) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/boburjon1504/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/boburjon1504/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/boburjon1504/leetcode/tree/master/1894-merge-strings-alternately) |
