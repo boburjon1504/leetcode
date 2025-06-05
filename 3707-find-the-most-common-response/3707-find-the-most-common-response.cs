@@ -19,7 +19,6 @@ public class Solution {
         var mx = 0;
         var mxString = "";
 
-        Console.WriteLine(JsonSerializer.Serialize(dc));
         foreach(var (key, val) in dc){
             if (val > mx){
                 mx = val;
