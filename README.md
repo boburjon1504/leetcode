@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/boburjon1504/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/boburjon1504/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/boburjon1504/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0829-subdomain-visit-count](https://github.com/boburjon1504/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/boburjon1504/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/boburjon1504/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/boburjon1504/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
+| [0829-subdomain-visit-count](https://github.com/boburjon1504/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0894-random-pick-with-blacklist](https://github.com/boburjon1504/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0931-maximum-frequency-stack](https://github.com/boburjon1504/leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0812-rotate-string](https://github.com/boburjon1504/leetcode/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/boburjon1504/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1097-stream-of-characters](https://github.com/boburjon1504/leetcode/tree/master/1097-stream-of-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/boburjon1504/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/boburjon1504/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -770,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/boburjon1504/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/boburjon1504/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/boburjon1504/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
