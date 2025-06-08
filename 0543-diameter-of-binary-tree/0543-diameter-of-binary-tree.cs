@@ -13,9 +13,9 @@
  */
 public class Solution {
     public int DiameterOfBinaryTree(TreeNode root) {
-        if(root.left is null && root.right is null){
-            return 0;
-        }
+        // if(root.left is null && root.right is null){
+        //     return 0;
+        // }
         var max = 0;
         Get(root, ref max);
 
@@ -30,7 +30,6 @@ public class Solution {
         var left = Get(root.left, ref max);
         var right = Get(root.right, ref max);
         
-        Console.WriteLine($"{left}  {right}");
         max = Math.Max(max, left + right);
 
         return Math.Max(left, right) + 1;
