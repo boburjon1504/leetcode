@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/boburjon1504/leetcode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/boburjon1504/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0386-lexicographical-numbers](https://github.com/boburjon1504/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/boburjon1504/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/boburjon1504/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/boburjon1504/leetcode/tree/master/0437-path-sum-iii) |
@@ -770,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/boburjon1504/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/boburjon1504/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/boburjon1504/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/boburjon1504/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1097-stream-of-characters](https://github.com/boburjon1504/leetcode/tree/master/1097-stream-of-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/boburjon1504/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
