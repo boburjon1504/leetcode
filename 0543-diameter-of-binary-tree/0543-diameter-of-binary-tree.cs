@@ -13,9 +13,6 @@
  */
 public class Solution {
     public int DiameterOfBinaryTree(TreeNode root) {
-        // if(root.left is null && root.right is null){
-        //     return 0;
-        // }
         var max = 0;
         Get(root, ref max);
 
