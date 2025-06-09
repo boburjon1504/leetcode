@@ -35,8 +35,6 @@ public class Solution {
             total -= Math.Min(left, right);
         }
 
-        Console.WriteLine($"root={root.val}  prev={prev}   [{left}, {right}]");
-
         return root.val == prev ? total + 1 : 0;
     }
 }
