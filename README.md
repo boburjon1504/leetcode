@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/boburjon1504/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/boburjon1504/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/boburjon1504/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/boburjon1504/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/boburjon1504/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/boburjon1504/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/boburjon1504/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/boburjon1504/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/boburjon1504/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/boburjon1504/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -624,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/boburjon1504/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/boburjon1504/leetcode/tree/master/0812-rotate-string) |
 ## Greedy
 |  |
@@ -848,4 +852,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boburjon1504/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/boburjon1504/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/boburjon1504/leetcode/tree/master/3483-alternating-groups-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/boburjon1504/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
