@@ -518,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/boburjon1504/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/boburjon1504/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3707-find-the-most-common-response](https://github.com/boburjon1504/leetcode/tree/master/3707-find-the-most-common-response) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/boburjon1504/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/boburjon1504/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/boburjon1504/leetcode/tree/master/3451-string-compression-iii) |
 | [3707-find-the-most-common-response](https://github.com/boburjon1504/leetcode/tree/master/3707-find-the-most-common-response) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/boburjon1504/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -809,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/boburjon1504/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/boburjon1504/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3707-find-the-most-common-response](https://github.com/boburjon1504/leetcode/tree/master/3707-find-the-most-common-response) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/boburjon1504/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Iterator
 |  |
 | ------- |
