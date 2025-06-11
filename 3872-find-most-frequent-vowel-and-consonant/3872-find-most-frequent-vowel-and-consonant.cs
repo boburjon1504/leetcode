@@ -11,7 +11,7 @@ public class Solution {
 
             freq[i]++;
 
-            if("aeiou".Contains(i)){
+            if("aeiou".Any(c => c == i)){
                 maxV = Math.Max(maxV, freq[i]);
             }else{
                 maxC = Math.Max(maxC, freq[i]);
