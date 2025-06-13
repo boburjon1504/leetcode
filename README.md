@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/boburjon1504/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/boburjon1504/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0655-print-binary-tree) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/boburjon1504/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/boburjon1504/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/boburjon1504/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/boburjon1504/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/boburjon1504/leetcode/tree/master/0655-print-binary-tree) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/boburjon1504/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/boburjon1504/leetcode/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/boburjon1504/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/boburjon1504/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/boburjon1504/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/boburjon1504/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/boburjon1504/leetcode/tree/master/0690-employee-importance) |
